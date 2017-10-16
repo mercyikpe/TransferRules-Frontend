@@ -1,0 +1,106 @@
+body {
+    Font-Family: Nunito Sans, san-serif;
+    Font-Style: Regular;
+    Font Size: 57px;
+    Line-Height: 78px;
+}
+
+
+<!-- Header starts -->
+.nav {
+    background-color: #FFFFFF;
+    width: 100%;
+    color: #333333;
+    height: 50px;
+    border: 2px solid #2CACF0;
+    margin-bottom: 30px;
+}
+
+.leftNav {
+    float: left;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+
+
+.rightNav {
+    float: right;
+    margin-bottom: 10px;
+}
+
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+    
+}
+
+input[type=button] {
+    background-color: #007BCA;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 16px;
+}
+
+
+div {
+    clear: left;
+}
+<!-- header ends -->
+
+
+
+
+ <!-- content starts  -->
+
+.content {
+   border: 2px solid #2CACF0;
+   text-align: center;
+}
+
+
+<!-- content close -->
+
+
+
+
+
+
+<!-- Footer starts -->
+
+hr {
+    height: 5px;
+    width: 100%;
+    padding: 0px 200px;
+    border-top: 2px solid #39689C ;
+    margin: 30px 0px;
+}
+
+
+footer {
+    Font-Family: Lato;
+    Font-Style: Regular;
+    Font Size: 14px;
+    text-align: center;
+    color: #000;
+    height: 50px;
+    margin-top: 10px; 
+}
+
+footer p {
+    margin-top: -30px;
+}
+
+<!-- Footer ends -->
